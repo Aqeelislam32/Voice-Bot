@@ -11,7 +11,7 @@ from concurrent.futures import ThreadPoolExecutor
 st.title("🎙️ VoiceBot: AI Conversations 🤖💬")
 
 
-openapi_key = "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"
+openapi_key = " "
 
 # Initialize session state variables
 #if 'generated' not in st.session_state:
